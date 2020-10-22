@@ -1,0 +1,12 @@
+body {
+    background-color: #F0F2F5;
+}
+.header {
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+.login_row {
+    margin: 17% 0;
+}
